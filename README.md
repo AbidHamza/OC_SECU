@@ -2,7 +2,6 @@
 
 Le but de ce TP est de vous offrir une petite introduction à la sécurité dans l'environnement IoT.
 
-**Note : A la fin de la scéance, pensez à m'envoyer un compte-rendu (court) répondant aux différentes questions présentes dans ce TP (leo.mendiboure@univ-eiffel.fr)**
 
 **Note : A condition que vous ayez installé/que vous installiez VirtualBox sur votre machine personnelle, il est tout à fait possible de réaliser ce TP sans se servir des machines de l'école.**
 
